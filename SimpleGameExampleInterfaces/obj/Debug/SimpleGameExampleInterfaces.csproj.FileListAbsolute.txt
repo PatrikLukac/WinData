@@ -1,0 +1,9 @@
+E:\rework\data\WinData\SimpleGameExampleInterfaces\bin\Debug\SimpleGameExampleInterfaces.exe
+E:\rework\data\WinData\SimpleGameExampleInterfaces\bin\Debug\SimpleGameExampleInterfaces.pdb
+E:\rework\data\WinData\SimpleGameExampleInterfaces\bin\Debug\Newtonsoft.Json.dll
+E:\rework\data\WinData\SimpleGameExampleInterfaces\bin\Debug\Newtonsoft.Json.xml
+E:\rework\data\WinData\SimpleGameExampleInterfaces\obj\Debug\SimpleGameExampleInterfaces.csprojAssemblyReference.cache
+E:\rework\data\WinData\SimpleGameExampleInterfaces\obj\Debug\SimpleGameExampleInterfaces.csproj.CoreCompileInputs.cache
+E:\rework\data\WinData\SimpleGameExampleInterfaces\obj\Debug\SimpleGameExampleInterfaces.csproj.CopyComplete
+E:\rework\data\WinData\SimpleGameExampleInterfaces\obj\Debug\SimpleGameExampleInterfaces.exe
+E:\rework\data\WinData\SimpleGameExampleInterfaces\obj\Debug\SimpleGameExampleInterfaces.pdb
