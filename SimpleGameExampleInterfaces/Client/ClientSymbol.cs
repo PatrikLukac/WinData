@@ -6,7 +6,7 @@ namespace SimpleGameExampleInterfaces.Client
 {
 	public class ClientSymbol
 	{
-		public static Dictionary<Symbol, ClientSymbol> SYMBOL_DATA = new Dictionary<Symbol, ClientSymbol>();
+		public static Dictionary<Char, ClientSymbol> SYMBOL_DATA = new Dictionary<Char, ClientSymbol>();
 		
 		
 		public List<SymbolPaytableEntry> SymbolPaytable;
@@ -18,7 +18,7 @@ namespace SimpleGameExampleInterfaces.Client
 			SymbolID = serverDefinition.Symbol.ID;
 			SymbolPaytable = serverDefinition.SymbolPaytable;
 			Texture = ResolveTexture(serverDefinition.Symbol);
-			SYMBOL_DATA.Add(serverDefinition.Symbol, this);
+			SYMBOL_DATA.Add(serverDefinition.Symbol.ID, this);
 		}
 
 		private static string ResolveTexture(Symbol symbol)

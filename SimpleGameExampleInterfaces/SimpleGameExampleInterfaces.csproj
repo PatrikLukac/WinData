@@ -73,7 +73,9 @@
     </ItemGroup>
     <ItemGroup>
       <Content Include="Docs\Composition.png" />
+      <Content Include="Docs\compositionSym.png" />
       <Content Include="Docs\Inheritance.png" />
+      <Content Include="Docs\project.png" />
       <Content Include="Docs\README.md" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
