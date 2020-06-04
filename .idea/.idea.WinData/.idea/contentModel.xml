@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\projects\WinData" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SimpleGameExampleInterfaces" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Client" t="Include">
+          <e p="ClientSymbol.cs" t="Include" />
+        </e>
+        <e p="Docs" t="Include">
+          <e p="Composition.png" t="Include" />
+          <e p="compositionSym.png" t="Include" />
+          <e p="Inheritance.png" t="Include" />
+          <e p="project.png" t="Include" />
+          <e p="README.md" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Server" t="Include" />
+        <e p="Shared" t="Include">
+          <e p="Game" t="Include">
+            <e p="GameSpecific" t="Include">
+              <e p="GameRoundData.cs" t="Include" />
+              <e p="GameStaticData.cs" t="Include" />
+              <e p="ReelSymbolSequence.cs" t="Include" />
+              <e p="VisibleSymbols.cs" t="Include" />
+              <e p="VisibleSymbolsBuilder.cs" t="Include" />
+            </e>
+          </e>
+          <e p="SymbolDefinitions" t="Include">
+            <e p="Definitions" t="Include">
+              <e p="ISymbolPaytableDefinition.cs" t="Include" />
+              <e p="SymbolPaytableEntry.cs" t="Include" />
+            </e>
+            <e p="GameSpecific" t="Include">
+              <e p="Symbol.cs" t="Include" />
+              <e p="SymbolDefinition.cs" t="Include" />
+              <e p="SymbolDefinitionBuilder.cs" t="Include" />
+            </e>
+            <e p="ICharSymbol.cs" t="Include" />
+            <e p="ISymbolWithMultiplier.cs" t="Include" />
+          </e>
+          <e p="WinDefinitions" t="Include">
+            <e p="Definitions" t="Include">
+              <e p="ILineWinDefinition.cs" t="Include" />
+            </e>
+            <e p="GameSpecific" t="Include">
+              <e p="Win.cs" t="Include" />
+              <e p="WinData.cs" t="Include" />
+              <e p="WinDefinition.cs" t="Include" />
+            </e>
+            <e p="IFreespinWin.cs" t="Include" />
+            <e p="IPayingWin.cs" t="Include" />
+            <e p="ISymbolsWin.cs" t="Include" />
+            <e p="Vector2.cs" t="Include" />
+          </e>
+        </e>
+        <e p="SimpleGameExampleInterfaces.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WinData.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\Patrik Lukac\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Patrik Lukac\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Patrik Lukac\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_WinData.-1509755865.00" t="ExcludeRecursive" />
+  </component>
+</project>

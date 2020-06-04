@@ -27,7 +27,7 @@
   
   
 * The same holds for symbols
-* If you imagine game that has symbols with multipliers, wild and expanding symbols, freespins, wheel of fortune and multiple other features, 
+* If you imagine game that has symbols with multipliers, wild and expanding symbols, freespins, bigwin, wheel of fortune and multiple other features, 
   it's getting interesting 
   
   

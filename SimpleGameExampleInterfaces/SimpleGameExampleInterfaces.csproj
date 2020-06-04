@@ -55,7 +55,9 @@
         <Compile Include="Shared\SymbolDefinitions\GameSpecific\Symbol.cs" />
         <Compile Include="Shared\SymbolDefinitions\GameSpecific\SymbolDefinition.cs" />
         <Compile Include="Shared\SymbolDefinitions\GameSpecific\SymbolDefinitionBuilder.cs" />
+        <Compile Include="Shared\SymbolDefinitions\IBigSymbol.cs" />
         <Compile Include="Shared\SymbolDefinitions\ICharSymbol.cs" />
+        <Compile Include="Shared\SymbolDefinitions\ISymbolWithMultiplier.cs" />
         <Compile Include="Shared\WinDefinitions\Definitions\ILineWinDefinition.cs" />
         <Compile Include="Shared\WinDefinitions\GameSpecific\Win.cs" />
         <Compile Include="Shared\WinDefinitions\GameSpecific\WinData.cs" />
